@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc9859ff-87e9-48c0-be00-bdadd3bf86e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejerciciosRepaso/ejerciciosRepaso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejerciciosRepaso/src/ejer1/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejerciciosRepaso/src/ejer1/testNumeroPrimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejerciciosRepaso/src/ejer3/Enteros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejerciciosRepaso/src/ejer3/testEstaOrdenado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejerciciosRepaso/src/ejer6/Vector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejerciciosRepaso/src/ejer6/testVectores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejerciciosRepaso/src/ejerMatrices/Matrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejerciciosRepaso/src/ejerMatrices/testMatrices.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26aLOUub1UlAxaV3mHzmeOz0zgH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.testVectores">
+    <configuration name="testEstaOrdenado" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejer3.testEstaOrdenado" />
+      <module name="ejerciciosRepaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejer3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejerMatrices.testMatrices" />
+      <module name="ejerciciosRepaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejerMatrices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testNumeroPrimo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejer1.testNumeroPrimo" />
+      <module name="ejerciciosRepaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejer1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testVectores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejer6.testVectores" />
+      <module name="ejerciciosRepaso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejer6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testVectores" />
+        <item itemvalue="Application.testEstaOrdenado" />
+        <item itemvalue="Application.testMatrices" />
+        <item itemvalue="Application.testNumeroPrimo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc9859ff-87e9-48c0-be00-bdadd3bf86e0" name="Changes" comment="" />
+      <created>1647656721789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647656721789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
